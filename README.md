@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bill CP LAI
 - 👀 I’m interested in Networking and coding in Web Application
 - 🌱 I’m currently learning ITIL4 Edition Service Management
-- 💞️ I’m looking to collaborate on P2p VPN 
+- 💞️ I’m looking to collaborate on P2P VPN 
 - 📫 How to reach me? By email is OK!
 
 <!---
